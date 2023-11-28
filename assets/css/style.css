@@ -507,6 +507,15 @@ main {
 .about-text p { margin-bottom: 15px; }
 
 
+.Phd-work {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+}
+
+.Phd-work p { margin-bottom: 15px; }
+
 
 /**
  * #service 
@@ -1388,6 +1397,8 @@ textarea.form-input::-webkit-resizer { display: none; }
   .about .article-title { margin-bottom: 20px; }
 
   .about-text { margin-bottom: 40px; }
+
+  .Phd-work {margin-bottom: 40px; }
 
   /* service */
 

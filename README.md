@@ -4,7 +4,7 @@
 
 Personal Website: https://shangfenghuang.github.io/shangfenghuang/
 
-<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" href='pikahello.gif' width='40' /> About Me</h2>
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" href='https://raw.githubusercontent.com/shangfenghuang/shangfenghuang/main/pikahello.gif' width='40' /> About Me</h2>
 
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 

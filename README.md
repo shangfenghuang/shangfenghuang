@@ -12,3 +12,7 @@ Personal Website: https://shangfenghuang.github.io/shangfenghuang/
 - 🎓 &nbsp; I study Geomatics Engineering at the University of Calgary.
 
 <hr>
+
+
+
+<img src="https://myreadme.vercel.app/api/embed/shangfenghuang?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />

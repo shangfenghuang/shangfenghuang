@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Shangfeng Huang (💻)
 
-<!--
-**shangfenghuang/shangfenghuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Shangfeng+Huang+)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Personal Website: https://shangfenghuang.github.io/shangfenghuang/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src='https://raw.githubusercontent.com/shangfenghuang/shangfenghuang/main/pikahello.gif' width='40' /> About Me</h2>
+
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
+
+- 🤔 &nbsp; Exploring new 3D Building reconstruction technologies.
+- 🎓 &nbsp; I study Geomatics Engineering at the University of Calgary.
+
+<hr>
+
+
+
+<img src="https://myreadme.vercel.app/api/embed/shangfenghuang?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />

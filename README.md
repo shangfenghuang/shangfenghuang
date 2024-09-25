@@ -14,5 +14,5 @@ Personal Website: https://shangfenghuang.github.io/shangfenghuang/
 <hr>
 
 
-
-<img src="https://myreadme.vercel.app/api/embed/shangfenghuang?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+https://github-readme-stats.vercel.app/api?username=shangfenghuang&show_icons=true&theme=transparent
+<img src="https://github-readme-stats.vercel.app/api?username=shangfenghuang&show_icons=true&theme=transparent" alt="reimaginedreadme" />

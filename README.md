@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Shangfeng+Huang+)](https://git.io/typing-svg)
 
-Personal Website: https://shangfenghuang.github.io/shangfenghuang/
+Personal Website: https://shangfenghuang.github.io
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src='https://raw.githubusercontent.com/shangfenghuang/shangfenghuang/main/pikahello.gif' width='40' /> About Me</h2>
 
